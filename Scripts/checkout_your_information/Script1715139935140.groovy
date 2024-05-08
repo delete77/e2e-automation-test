@@ -17,17 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.verifyElementVisible(findTestObject('page_checkout/verify_checkout_page'))
 
-WebUI.navigateToUrl(GlobalVariable.baseUrl)
+WebUI.setText(findTestObject('page_checkout/first_name'), 'cahyo')
 
-WebUI.setText(findTestObject('Object Repository/Login/input_Swag Labs_user-name'), Username)
+WebUI.setText(findTestObject('page_checkout/last_name'), 'eko')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
+WebUI.setText(findTestObject('page_checkout/zip_code'), '12345')
 
-WebUI.click(findTestObject('Object Repository/Login/input_Swag Labs_login-button'))
-
-WebUI.click(findTestObject('Object Repository/Login/div_Swag Labs'))
-
-WebUI.click(findTestObject('Object Repository/Login/span_Products'))
+WebUI.click(findTestObject('page_checkout/continue'))
 

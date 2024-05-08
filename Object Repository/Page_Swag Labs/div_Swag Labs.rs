@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Swag Labs</name>
    <tag></tag>
-   <elementGuidId>55bff776-f1b6-4264-b48b-7fba8f9612ee</elementGuidId>
+   <elementGuidId>994035bb-306c-4705-8593-3e8875c6e427</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bff46695-0ff6-4185-b145-52082ebb5708</webElementGuid>
+      <webElementGuid>75c8b377-5173-4536-97ca-9c6266f4e7b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>app_logo</value>
-      <webElementGuid>43bb4371-2928-41c6-aba5-857103f3b1a7</webElementGuid>
+      <webElementGuid>824c4544-cd9f-4d3f-b59a-60f82c463d48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Swag Labs</value>
-      <webElementGuid>4898d44a-9b82-402d-b5e8-7a0ce62ed011</webElementGuid>
+      <webElementGuid>b917676a-b846-4e07-9cba-120c903a4564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header_container&quot;)/div[@class=&quot;primary_header&quot;]/div[@class=&quot;header_label&quot;]/div[@class=&quot;app_logo&quot;]</value>
-      <webElementGuid>a4164405-6dc3-4ec9-8eeb-5c69a061ede4</webElementGuid>
+      <webElementGuid>54708878-81c2-4454-ae1f-633ec1b04e0f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header_container']/div/div[2]/div</value>
-      <webElementGuid>e53c1ff0-842d-46d4-a6f2-80ec301f704a</webElementGuid>
+      <webElementGuid>89ea0cc9-f019-4476-8f6c-1bf1137773de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[2]</value>
-      <webElementGuid>77579ea0-d884-4b3e-958c-9c0a4e08c18c</webElementGuid>
+      <webElementGuid>9f0a6799-0177-4b38-8b25-8cf5b2dea00a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[4]</value>
-      <webElementGuid>afc00d50-0814-4c54-ac24-a9c59b305185</webElementGuid>
+      <webElementGuid>7407bbb4-5312-421f-81c0-90515cae0f5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::div[2]</value>
-      <webElementGuid>201835a1-7fad-48a1-97de-0fe678f10bf2</webElementGuid>
+      <webElementGuid>be998fef-9361-430a-873f-c98f59c2673d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/preceding::div[2]</value>
-      <webElementGuid>8a799776-8b68-4120-beea-c08ae9ae5638</webElementGuid>
+      <webElementGuid>f1045268-d752-4659-ad47-5daa866fd847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div[2]/div</value>
-      <webElementGuid>6ab365fa-0b50-4b6f-b25a-5b31d326c5e7</webElementGuid>
+      <webElementGuid>2f67b81b-273b-405c-911b-b51916276471</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Swag Labs' or . = 'Swag Labs')]</value>
-      <webElementGuid>5d91c370-841b-4f43-b156-a1f199e1206a</webElementGuid>
+      <webElementGuid>60033d47-10ce-485f-b5c1-7a237117d82f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
